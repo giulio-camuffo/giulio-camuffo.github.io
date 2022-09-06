@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "LOR & TOR"
+    url: /lor-tor/
+
+  - title: "Certificates"
+    url: /certificates/
