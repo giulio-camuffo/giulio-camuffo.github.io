@@ -9,7 +9,7 @@ Certificates of Completion - Coursera:
 [Certificates](/files/Coursera-Certificates.pdf)
 
 Certificates of Completion - LinkedIn:  
-[Certificates](/files/LinkedIn-Certificates.pdf)
+[Certificates](/files/LinkedIn_Certificates_GiulioCamuffo.pdf)
 
 Certificate of Completion - OESON Global Internship Program:  
 [Certificate](/files/GC_OESON_Certif.pdf)
