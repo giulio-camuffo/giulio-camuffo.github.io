@@ -14,7 +14,7 @@ Hi there! I am Giulio, a master’s degree student enrolled in the Business and 
                           My level of English is advanced (C1 certified) and my master's degree was taught completely in English, the course being international, as well as my Erasmus+ international experience.
                           I have recently been an Erasmus+ Exchange Student at SGH, Warsaw School of Economics for the Winter Semester 2021/2022 (GPA 4.0/4.0). 
 
-The main areas I deal with are Business Analysis, Business Strategy, Project Management, Economic Development, Entrepreneurship and Data Analysis/Business Intelligence.
+The main areas I deal with are Business Analysis, Business Strategy, Project Management, Business Development, Entrepreneurship and Data Analysis/Business Intelligence.
 In addition to these main ones, other areas of interest that I would like to possibly deal with in the future are Corporate Governance, Performance Management, M&A and Behavioural Economics.
                           
 I decided to write my master's thesis in the field of Corporate Governance/ Network Analysis/ Entrepreneurship with a 3-months internship (September-November 2022) in Bratislava, where I will be CEO Assistant of 26HOUSE, one of the top Slovak/Czech ERP providers (Odoo) of complex IT and consulting services. This experience will allow me to analyse the relationship between the company and its daughter company, Synculario, an outsourcing IT support startup, both based in Bratislava (Slovakia) and,specifically, to analyse the correlation between performance drivers in 2022.
