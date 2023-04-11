@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Giulio, a master’s degree student enrolled in the Business and Administration course at 
-                          University of Bologna (Italy), who is only missing the writing of his thesis before graduating (I expect to 
-                          graduate by March 2023 at the latest). 
-                          My level of English is advanced (C1 certified) and my master's degree was taught completely in English, the course being international, as well as my Erasmus+ international experiences.
-                          I have recently been an Erasmus+ Exchange Student at SGH, Warsaw School of Economics for the Winter Semester 2021/2022 (GPA 4.0/4.0). 
+Hi there! I am Giulio, and I come from Italy. On 30 March 2023, I graduated from the Master's degree in Economics and Management, International curriculum in Business and Administration, at the University of Bologna (Italy), with a final grade of 110/110 cum laude. My level of English is advanced (C1 certificate) and my Master's degree was taught entirely in English, the course being international, as were my international Erasmus+ experiences in Warsaw and Bratislava. I was recently an Erasmus+ exchange student at SGH, Warsaw School of Economics for the winter semester 2021/2022 (GPA 4.0/4.0).
 
 The main areas I deal with are Business Analysis, Business Strategy, Project Management, Business Development, Entrepreneurship and Data Analysis/Business Intelligence.
 In addition to these main ones, other areas of interest that I would like to possibly deal with in the future are Corporate Governance, Performance Management, M&A and Behavioural Economics.
                           
-I decided to combine the writing process of my master's thesis, whcih will be in the field of Corporate Governance/ Crisis Management/ Entrepreneurship with a 4-months internship (September-November 2022) in Bratislava (Slovakia), where I have been CEO Assistant and ERP Specialist Intern at 26HOUSE, one of the top Slovak/Czech ERP providers of complex IT and consulting services focused on the open source ERP software Odoo. Thanks to this experience I will indeed analyse the relationship between the company and its daughter company, Synculario, an outsourcing IT support startup, both based in Bratislava (Slovakia) and,specifically, to analyse the correlation between performance drivers in 2022.
+For the final dissertation, I decided to combine the process of writing my Master's thesis, in the field of Administration and Network and Crisis Management, with a 4-month internship under the Erasmus+ program (September-November 2022) in Bratislava (Slovakia), where I covered various roles (CEO Assistant, ERP Specialist Intern, but mainly Business Consultant) at 26HOUSE, one of the leading Slovak/Czech providers of complex ERP and consulting services centred on the open source ERP software Odoo. 
+
+With my thesis project, titled "Crisis and recovery in a start-up. The case of the Slovak company Synculario", I conducted an empirical analysis to identify and structure the key factors and root causes of Synculario's crisis in 2022, which is 26HOUSE's subsidiary. In addition, I researched the solutions that have been adopted by the new administration to recover, together with the restructuring strategies implemented.
 
 As for my professional experience, I completed a two-month remote intensive internship (March-May 2022) as a Business Analyst for OESON, in which I applied what I learned in the Business Intelligence course taken during my master's degree, in terms of producing 
                           complex measures with DAX language, creating interactive dashboards, cleaning and preprocessing of data, using R for hypothesis testing and correlation analysis, and ultimately received a Letter of 
