@@ -8,7 +8,7 @@ author_profile: true
 Letter of recommendation:  
 [OESON LOR](/files/GC-OESON-LOR.pdf)
 
-Transcripts of Records and Graduation Mark- Unibo:  
+Transcripts of Records & Degree Certificate- Unibo:  
 [TOR Unibo](/files/TOR-with-graduation-mark.pdf)
 
 Transcript of Records - SGH:  
