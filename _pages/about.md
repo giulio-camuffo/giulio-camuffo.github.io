@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Giulio, and I come from Italy. On 30 March 2023, I graduated from the Master's degree in Economics and Management, International curriculum in Business and Administration, at the University of Bologna (Italy), with a final grade of 110/110 cum laude. My level of English is advanced (C1 certificate) and my Master's degree was taught entirely in English, as were my international Erasmus+ experiences in Warsaw and Bratislava. I was an Erasmus+ exchange student at SGH, Warsaw School of Economics for the winter semester 2021/2022 (GPA 4.0/4.0) and an Erasmus+ exchange intern at 26HOUSE from September to December 2022.
+Hi there! I am Giulio, and I come from Italy. On 30 March 2023, I graduated from the Master's degree in Economics and Management, International curriculum in Business and Administration, at the University of Bologna (Italy), with a final grade of 110/110 cum laude. My level of English is advanced (C1 certificate) and my Master's degree was taught entirely in English, as were my international Erasmus+ experiences. Indeed, I was an Erasmus+ exchange student at SGH, Warsaw School of Economics for the winter semester 2021/2022 (GPA 4.0/4.0) and an Erasmus+ exchange intern at 26HOUSE from September to December 2022.
 
 The main areas I deal with are Business Analysis, Business Strategy, Project Management, Business Development, and Data Analysis/Business Intelligence.
 In addition to these main ones, other areas of interest that I would like to possibly deal with in the future are Corporate Governance, Performance Management, M&A and Behavioural Economics.
