@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giulio Camuffo"
 title_separator          : "-"
 name                     : &name "Giulio Camuffo"
-description              : &description "Budgeting and Controlling Trainee at ECB"
+description              : &description "Finance Trainee at ECB (DE)"
                          
 url                      : "https://giulio-camuffo.github.io" # the base hostname & protocol for your site e.g. "https://giulio-camuffo.github.io"
 repository               : "giulio-camuffo.github.io"
