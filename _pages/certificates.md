@@ -20,8 +20,5 @@ Certificate of Language Proficiency - C1 English:
 Certificate of Completion - PM^2 C1:  
 [Certificate](/files/PM^2-certificate.pdf) 
 
-Certificate of Completion - Foundations of Programming with Python:  
-[Certificate](/files/Giulio-Camuffo-Krisolis-Certificate-Foundations-of-Programming-with-Python.pdf) 
-
-Certificate of Completion - Introduction to SQL
-[Certificate](/files/Giulio-Camuffo-Krisolis-Certificate-Introduction-to-SQL.pdf) 
+Certificate of Completion - Krisolis:  
+[Certificate](/files/Krisolis-merged-certificates.pdf) 
