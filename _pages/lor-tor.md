@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ECB Letter of recommendation:  
-[OESON LOR](/files/ECB_LetterOfReference_GC.pdf)
+[ECB LOR](/files/ECB_LetterOfReference_GC.pdf)
 
 OESON Letter of recommendation:  
 [OESON LOR](/files/GC-OESON-LOR.pdf)
