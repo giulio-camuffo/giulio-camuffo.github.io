@@ -5,7 +5,10 @@ permalink: /lor-tor/
 author_profile: true
 ---
 
-Letter of recommendation:  
+ECB Letter of recommendation:  
+[OESON LOR](/files/ECB_LetterOfReference_GC.pdf)
+
+OESON Letter of recommendation:  
 [OESON LOR](/files/GC-OESON-LOR.pdf)
 
 Transcripts of Records & Degree Certificate- Unibo:  
