@@ -8,21 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Giulio, and I am from Italy. The main areas I deal with are Controlling, Business and Financial Analysis, Project and Performance Management, and Business Intelligence. In addition to these main ones, other areas that I am interested in are Corporate Governance, Data processing, and Behavioural Economics.
-                        
-I have been working for the European Central Bank in Frankfurt am Main (Germany) since the 15th of April 2023, first as Finance Trainee and then as an Analyst in the Budgeting and Controlling division (Directorate of Finance), specifically in the Projects & Analytics team, until 31st December 2024. My primary responsibilities included managing budget allocations and adjustments, based on Business Areas' needs and Budget Partners' input. As controller, I periodically run different types of reconciliations to ensure financial data alignment in SAP and in our dashboards, or to identifying any system issues for IT investigation. In addition, I drafted the ECB key budget dossiers, such as Budget Planning, Year-End Report, and Mid-Year Forecasts, by budget/actuals data extraction and elaboration. Within the team, I oversaw the creation and maintenance of masterdata in the main financial modules and environments of SAP, ensuring that any type of financial or headcount allocation per cost object is accurately recorded and monitored. I have also contributed to enhancing this masterdata cycle within the team by implementing various VBA automations. Then, as the knowledge management responsible in the team, I was regularly updating and reviewing our technical procedures while reorganizing the Darwin space, to improve knowledge sharing and task handover.
+Hi, I am Giulio! I'm originally from Italy and passionate about *Controlling*, *Business & Financial Analysis*, *Project & Performance Management*, and *Business Intelligence*. I’m also deeply interested in *Corporate Governance*, *Data Processing*, and *Behavioural Economics*.
 
-In June 2025, I rejoined the European Central Bank as an Audit Analyst in the Audit Mission 1 Division (Directorate Internal Audit). As part of the Infrastructure Portfolio, I have been actively involved in audit missions focusing on budget reprioritization efforts, including the "Running the Bank" budget for 2023–2025. This role builds upon my financial expertise, allowing me to apply my skills in evaluating and enhancing the bank’s internal processes and resource allocation strategies.
+# **Professional Experience**    
+## **European Central Bank (Frankfurt am Main, Germany)**
+### **Audit Analyst – Directorate Internal Audit (since June 2025)**
 
-Also, I was hired on a short-term direct contract as an internal Business Consultant full-time to support strategic and financial analysis for 26HOUSE, an ERP consulting company based in Bratislava (Slovakia), and its subsidiary, a start-up named Synculario. My work focused on conducting financial reconciliations, preparing performance dashboards (Excel or Power BI), performing industry analysis on the Czech/Slovak ERP market, and producing executive presentations for 26HOUSE board meetings. Alongside, through financial statement analysis, surveys, and interviews, I investigated the root causes of the financial crisis that impacted Synculario in 2022. I analyzed the crisis triggers, examined the solutions that had been adopted by the new administration to recover, together with the restructuring strategies implemented, and reflected on broader implications for internal governance and network resilience in tech-oriented start-ups. The results of this investigation later formed the basis of my Master’s thesis, "Crisis and Recovery in a Start-Up: The Case of the Slovak Company Synculario".
+Currently part of the Infrastructure Portfolio, I am mostly contributing to audit missions focused on the Shared Services areas of the ECB. However, I also had the opportunity to rotate across different portfolios and be exposed to diverse audit areas than my portfolio. This has allowed me to explore an even wider range of processes, each with its own structure, challenges, and opportunities for improvement. I find it extremely interesting to identify ways to make these processes more efficient and effective. I truly appreciate all the assignments I’ve been entrusted with, as they keep my work dynamic and consistently engaging. So far, the audits I have been involved in were (without disclosing the full description of the audit for confidentiality reasons):
+- budget reprioritisation excercises;
+- pensions;
+- administrative expenses with a focus on communication;
+- Annual Account;
+- project governance.
 
-My academic background in Economics and Management, with a focus on Business and Administration, has provided me with a solid foundation in cost accounting, performance analysis, and business analytics. This includes studying key profitability ratios, such as Return on Assets, Return on Equity, and Net Profit Margin. Additionally, I gained proficiency in utilizing tools to create customized and interactive data visualization dashboards based on large amounts of data, like Power BI, or using some programming languages (R, Python) for further elaboration. I have also been an Erasmus+ exchange student at SGH, Warsaw School of Economics (Warsaw, Poland) for the winter semester 2021/2022 (GPA 4.0/4.0).
+### **Finance Trainee and Analyst – Budgeting and Controlling Division - Directorate Finance (April 2023 - December 2024)**
+Worked in the Projects & Analytics team with responsibilities including:
 
-As for my other professional experience, I completed a three-month remote intensive internship (March-May 2022) as a Business Analyst for OESON (remotely, the company is based in Indore, India), in which I applied what I learned in the Business Intelligence course taken during my master's degree, in terms of producing complex measures with DAX language, creating interactive dashboards, cleaning and preprocessing of data, using R for hypothesis testing and correlation analysis. However, my passion for the world of Data Analysis does not end in the software learned so far; in fact, 
-I am very eager to constantly continue to learn new tools to expand my analytical and technical knowledge, such as Tableau, SQL, and any other software that is necessary to learn for my professional career.
-                          
-   In addition, in parallel with my studies and the Business Analyst internship, I have completed a part-time six-month internship (March-September 2022) as Business Development Intern for The THRIVE Project, an Australian Non-profit. 
-I have been a Project manager involved so far in three crucial sustainability projects to promote the corporate framework and develop new partnerships and collaborations with organizations, institutions, and NGOs working in the areas related to the 14 SDGs.
-But not only that. Working for an organization with such a focus on environmental sustainability has also allowed me to get closer to researchers from all over the world who are experts in every possible field, of all ages, with the opportunity to collaborate with them on various projects and consequently learn the type of approach used in research.
+- Managing budget allocations and adjustments based on Business Area needs and Budget Partner input;
+- Running reconciliations to ensure SAP financial data integrity;
+- Drafting core ECB budget deliverables (Budget Planning, Mid-Year Forecast, Year-End Report);
+- Overseeing creation and maintenance of SAP master data in the ERP financial management modules (FM, CO, BW and FI) and in its environments (DEV, UAT, PRD);
+- Implementing VBA automations to improve internal workflows;
+- Acting as knowledge management focal point, improving documentation and its internal space structure.
 
-Among my passions and hobbies, I love traveling, hiking (and generally any kind of outdoor tourism), playing chess, watching TV series, and meet new people from different cultures. Among all these, however, my greatest passion is music, of which I am a great devotee (especially the vast world of electronic music). If you are passionate too, you can find out all about my music tastes in my Spotify profile (https://open.spotify.com/user/2147ostd2xil2uieljbmk6fri?si=9645c77e8082468e). I love to discover new sounds and interesting songs, as well as keeping on classify them into different playlists, to have something suitable to play in different situations and moods.
+## **Consulting & Research Experience**
+### **26HOUSE & Synculario (Bratislava, Slovakia)**
+### **Business Consultant – Management Office (September - January 2022)**
+Short-term Business Consultant contract for the ERP consulting company 26HOUSE, based in Bratislava (Slovakia), supporting strategic and financial analysis across the ERP market in Czech Republic and Slovakia. Activities included financial reconciliations, Power BI dashboards, market research, and delivering executive presentations. I also investigated the root causes of the crisis of 26HOUSE's subsidy, called Synculario, and the results of my analysis formed the basis of my Master's thesis, titled *“Crisis and Recovery in a Start-Up: The Case of the Slovak Company Synculario”*.
+
+### **OESON (Remote)**
+### **Business Analyst Intern (March - May 2022)** 
+
+3 months internships with focus on applying Excel and BI techniques:
+
+- Advanced DAX measures
+- Interactive dashboards
+- Data cleaning & preprocessing
+- R-based statistical analysis
+
+### **The THRIVE Project (Remote)**
+### **Business Development Intern (February - September 2022)** 
+
+Business Development Intern and Project Management assistant, contributing to sustainability initiatives aligned with multiple SDGs, enabling collaboration with researchers, institutions and NGOs worldwide.
+
+# **Academic Background**  
+My academic background in Economics and Management, with a focus on Business and Administration, has provided me with a solid foundation in cost accounting, performance analysis, and business analytics. This includes studying key profitability ratios, such as Return on Assets(ROA), Return on Equity(ROE), and Net Profit Margin(NPM). Additionally, I gained proficiency in utilizing tools to create customized and interactive data visualization dashboards based on large amounts of data, like Power BI, or using some programming languages (R, Python) for further elaboration. I have also been an Erasmus+ exchange student at SGH, Warsaw School of Economics (Warsaw, Poland) for the winter semester 2021/2022 (GPA 4.0/4.0).
+ 
+# **Hobbies & Passions** 
+I love traveling, hiking, chess, TV series, and meeting people from different cultures. But above all, my biggest passion is music, especially electronic music. I love to discover new sounds, genres and interesting mixes, as well as classifying them into different playlists, to have something suitable to play in each possible situations and moods. If you are curious about what I listen to, feel free to check my Spotify profile: 
+- https://open.spotify.com/user/2147ostd2xil2uieljbmk6fri?si=9645c77e8082468e 
