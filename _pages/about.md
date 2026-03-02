@@ -52,7 +52,14 @@ Short-term Business Consultant contract for the ERP consulting company 26HOUSE, 
 Business Development Intern and Project Management assistant, contributing to sustainability initiatives aligned with multiple SDGs, enabling collaboration with researchers, institutions and NGOs worldwide.
 
 # **Academic Background**  
-My academic background in Economics and Management, with a focus on Business and Administration, has provided me with a solid foundation in cost accounting, performance analysis, and business analytics. This includes studying key profitability ratios, such as Return on Assets(ROA), Return on Equity(ROE), and Net Profit Margin(NPM). Additionally, I gained proficiency in utilizing tools to create customized and interactive data visualization dashboards based on large amounts of data, like Power BI, or using some programming languages (R, Python) for further elaboration. I have also been an Erasmus+ exchange student at SGH, Warsaw School of Economics (Warsaw, Poland) for the winter semester 2021/2022 (GPA 4.0/4.0).
+I hold both a Master’s degree in Economics and Management (specialising in Business Administration) and a Bachelor’s degree in Economics, Markets and Institutions, both obtained at the University of Bologna.
+My Bachelor’s studies gave me a solid introduction to a wide range of economic, legal, and financial subjects, ranging from micro and macroeconomics, commercial law, or statistics to industrial, international and environmental economics, forming a strong foundation for the advanced knowledge I needed for my Master's degree later on.
+
+Throughout my Master’s, I strengthened my expertise in cost accounting, performance analysis, business analytics. This included studying key financial and profitability ratios (ROA, ROE, NPM), and gaining hands‑on experience with Power BI, R, and Python, particularly in developing interactive dashboards and conducting data‑driven analyses.
+
+During my Master's, in the winter semester 2021/2022, I studied as an Erasmus+ exchange student at SGH Warsaw School of Economics (Warsaw, Poland), where I achieved a GPA of 4.0/4.0 and further enriched my academic and international exposure.
+
+Finally, most recently, I completed a 3‑month high-intensity Master of Specialization in Controlling & Business Performance at Executy Business Academy (from May to July 2025). The programme was led by experienced managers and controllers from industry and focused on concrete, real‑world cases in financial controlling, budgeting, and business performance analysis and evaluation, further strengthening my applied skills in managerial accounting and performance management.
  
 # **Hobbies & Passions** 
 I love traveling, hiking, chess, TV series, and meeting people from different cultures. But above all, my biggest passion is music, especially electronic music. I love to discover new sounds, genres and interesting mixes, as well as classifying them into different playlists, to have something suitable to play in each possible situations and moods. If you are curious about what I listen to, feel free to check my Spotify profile: 
