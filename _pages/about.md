@@ -53,7 +53,7 @@ Business Development Intern and Project Management assistant, contributing to su
 
 # **Academic Background**  
 I hold both a Master’s degree in Economics and Management (specialising in Business Administration) and a Bachelor’s degree in Economics, Markets and Institutions, both obtained at the University of Bologna.
-My Bachelor’s studies gave me a solid introduction to a wide range of economic, legal, and financial subjects, ranging from micro and macroeconomics, commercial law, or statistics to industrial, international and environmental economics, forming a strong foundation for the advanced knowledge I needed for my Master's degree later on.
+My Bachelor’s studies gave me a solid introduction to a wide range of economic, legal, and financial subjects, ranging from micro and macroeconomics, commercial law, or statistics to industrial, international and environmental economics, forming a strong foundation for the advanced knowledge I needed for my Master's degree later on. My Bachelor final thesis was titled: "Economic Analysis of Pollution: Comparative evaluation of emission taxes and environmental standards".
 
 Throughout my Master’s, I strengthened my expertise in cost accounting, performance analysis, business analytics. This included studying key financial and profitability ratios (ROA, ROE, NPM), and gaining hands‑on experience with Power BI, R, and Python, particularly in developing interactive dashboards and conducting data‑driven analyses.
 
