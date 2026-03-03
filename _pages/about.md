@@ -59,7 +59,7 @@ Throughout my Master’s, I strengthened my expertise in cost accounting, perfor
 
 During my Master's, in the winter semester 2021/2022, I studied as an Erasmus+ exchange student at SGH Warsaw School of Economics (Warsaw, Poland), where I achieved a GPA of 4.0/4.0 and further enriched my academic and international exposure.
 
-Finally, most recently, I completed a 3‑month high-intensity Master of Specialization in Controlling & Business Performance at Executy Business Academy (from May to July 2025). The programme was led by experienced managers and controllers from industry and focused on concrete, real‑world cases in financial controlling, budgeting, and business performance analysis and evaluation.
+Finally, most recently, I completed a 4‑months high-intensity Master of Specialization in Controlling & Business Performance at Executy Business Academy (from May to August 2025). The programme was led by experienced managers and controllers from industry and focused on concrete, real‑world cases in financial controlling, budgeting, and business performance analysis and evaluation.
  
 # **Hobbies & Passions** 
 I love traveling, hiking, chess, TV series, and meeting people from different cultures. But above all, my biggest passion is music, especially electronic music. I love to discover new sounds, genres and interesting mixes, as well as classifying them into different playlists, to have something suitable to play in each possible situations and moods. If you are curious about what I listen to, feel free to check my Spotify profile: 
