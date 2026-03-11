@@ -14,12 +14,12 @@ Hi, I am Giulio! I'm originally from Italy and passionate about *Controlling*, *
 ## **European Central Bank (Frankfurt am Main, Germany)**
 ### **Audit Analyst – Directorate Internal Audit (since June 2025)**
 
-Currently part of the Infrastructure Portfolio, I am mostly contributing to audit missions focused on the Shared Services areas of the ECB. However, I also had the opportunity to rotate across different portfolios and be exposed to diverse audit areas than my portfolio. This has allowed me to explore an even wider range of processes, each with its own structure, challenges, and opportunities for improvement. I find it extremely interesting to identify ways to make these processes more efficient and effective. I truly appreciate all the assignments I’ve been entrusted with, as they keep my work dynamic and consistently engaging. So far, the audits I have been involved in were (without disclosing the full description of the audit for confidentiality reasons):
+Currently part of the Infrastructure Portfolio, I am mostly contributing to audit missions focused on the Shared Services areas of the ECB. However, I also had the opportunity to rotate across different portfolios and be exposed to diverse audit areas than my portfolio. This has allowed me to explore an even wider range of processes, each with its own structure, challenges, and opportunities for improvement. I find it extremely interesting to identify ways to make these processes more efficient and effective. I truly appreciate all the assignments I’ve been entrusted with, as they keep my work dynamic and consistently engaging. So far, the audits I have been involved in were (without disclosing their full title and description for confidentiality reasons):
 - budget reprioritisation excercises;
 - pensions;
-- administrative expenses with a focus on communication;
-- Annual Account;
-- project governance.
+- administrative expenses;
+- ECB Annual Accounts;
+- projects' governance.
 
 ### **Finance Trainee and Analyst – Budgeting and Controlling Division - Directorate Finance (April 2023 - December 2024)**
 Worked in the Projects & Analytics team with responsibilities including:
