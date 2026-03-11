@@ -15,7 +15,7 @@ Certificate of Completion - Data Analysis Skills:
 [Certificate](/files/Certificates-of-Completion-Data-Analysis.pdf) 
 
 Certificate of Completion - Communication & Organisational Skills:  
-[Certificate](/files/Certificates-of-Completion-Communication-&-Organisational-Skills.pdf) 
+[Certificates](/files/Certificates-of-Completion-Communication-&-Organisational-Skills.pdf) 
 
 Certificate of Completion - OESON Global Internship Program:  
 [Certificate](/files/GC-OESON-Certif.pdf)
