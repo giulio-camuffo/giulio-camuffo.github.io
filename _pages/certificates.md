@@ -5,6 +5,9 @@ permalink: /certificates/
 author_profile: true
 ---
 
+Diploma of Completion - Master in Controlling & Business Performance: 
+[Diploma](/files/Diploma-Master-in-Controllo-di-Gestione-e-Business-Performance.pdf)
+
 Certificates of Completion - Project Management Skills:  
 [Certificates](/files/Certificates-of-Completion-Project-Management.pdf)
 
