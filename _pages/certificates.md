@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Master in Controlling & Business Performance:
+Master in Controlling & Business Performance:                                                                                     
 [Diploma](/files/Diploma-Master-in-Controllo-di-Gestione-e-Business-Performance.pdf)
 
 Certificates of Completion - Project Management Skills:  
